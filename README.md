@@ -40,3 +40,12 @@ Analyze trends and patterns in patient admittance, Evaluate treatment effectiven
 * This is a 1-month out of 6-month specialization by [ALX](https://www.alxafrica.com/). The specialization includes Power BI, Google Spreadsheet, SQL, Statistics, A/B testing, Visualization, UN SDG goals modeling, and Project Analytics modules.
 * **Status:** Completed in December 2023 (please, check the certificates section below).
 * **Link:** View my project visualisation [here](https://drive.google.com/drive/folders/1NG7SK9ybQR4pCiyzu6UO6ErFGrFU6xgf?usp=sharing)
+
+
+# Data Analysis Program 
+
+# [Data Visualisation Project 2](https://drive.google.com/drive/folders/1kv2p11Tf2t2qPiyVWax75Fk0Bzyg--KV?usp=sharing)
+
+* **Description:** This was a follow-up project to the first project on Data visualisation, with updated and more complex data and visualisation requirements to visualize and report insights to stakeholders involved with the responsibility of solving the water problems (as one of the SDG goals) facing their "fictional country", provided by the academy. After the project we were tested on our skills and knowledge which I exemplified with excellent marks.
+* This is the second month out of 6-month specialization by [ALX](https://www.alxafrica.com/). The specialization includes Data Insight, Storytelling, Power BI, Google Spreadsheet, Statistics, Drilling, Visualization, UN SDG goals modeling, and Project Analytics modules.
+* **Status:** Completed in December 2023 (please, check the certificates section below).
