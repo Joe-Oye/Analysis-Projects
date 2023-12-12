@@ -38,4 +38,5 @@ Analyze trends and patterns in patient admittance, Evaluate treatment effectiven
 
 * **Description:** I was able to implement techniques and knowledge acquired from course modules to visualize and report data that helps solve the water problems facing a fictional country, provided by the academy. After each project we were tested on our skills and knowledge which I exemplified with excellent marks.
 * This is a 1-month out of 6-month specialization by [ALX](https://www.alxafrica.com/). The specialization includes Power BI, Google Spreadsheet, SQL, Statistics, A/B testing, Visualization, UN SDG goals modeling, and Project Analytics modules.
-Status: Completed in December 2023 (please, check the certificates section below).
+* **Status:** Completed in December 2023 (please, check the certificates section below).
+* **Link:** View my project visualisation [here](https://drive.google.com/drive/folders/1NG7SK9ybQR4pCiyzu6UO6ErFGrFU6xgf?usp=sharing)
