@@ -1,10 +1,8 @@
 # Joseph Oyeyinka - Data and Business Analysis Portfolio 
 
 ## About me: 
-Hi, I'm Joe! I have a technical background and hold a bachelor's degree in Agronomy from the University of Ibadan, with a major in Soil Science. I have 5 years of experience in the field of Marketing, 
-where I held roles such as Team Lead, Digital Marketing, and Strategy, in a Professional Development and Consultancy Firm.
-I'm a firm believer that data holds the key to making informed decisions and unlocking exponential growth. As a budding Data Analyst who just graduated from the Alx Data Analysis program, 
-I'm equipped with the skills and knowledge to translate raw data into actionable insights that drive success. I am looking for opportunities to bring my best self to help businesses and brands alike achieve desired goals through insightful Data and Business Analysis. Smiling face with a halo! 👼
+Hi, I'm Joe! I have a technical background and hold a bachelor's degree in Agronomy from the University of Ibadan, with a major in Soil Science. I have 5 years of experience in the field of Marketing, where I held roles such as Team Lead -Digital Marketing and Strategy, in a Professional Development and Consultancy Firm.
+I'm a firm believer that data holds the key to making informed decisions and unlocking exponential growth. As a budding Data Analyst who just graduated from the Alx Data Analysis program, I'm equipped with the skills and knowledge to translate raw data into actionable insights that drive success. I am looking for opportunities to bring my best self to help businesses and brands alike achieve desired goals through insightful Data and Business Analysis. Smiling face with a halo! 👼
 
 * This repository serves to showcase my skills and as a platform to share my projects, and as a way to track my progress in the Data and Business Analytics field.
 ---
